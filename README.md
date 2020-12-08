@@ -21,6 +21,7 @@ Com base nas orientações recebidas e pesquisas realizadas foi criada uma estru
 * Para criação e validação do codigo em CPP foi utilizado o DevC++, disponivel para download no seguinte link: https://sourceforge.net/projects/orwelldevcpp/
 
 ## Video explicação
-Foi criado um video apresentação, explicando o codigo e mostrando a logica por tras do codigo feito em assembly
+Foi criado um video apresentação, explicando o codigo e mostrando a logica por tras do codigo feito em assembly.
+
 Link para o video: 
 
