@@ -23,5 +23,5 @@ Com base nas orientações recebidas e pesquisas realizadas foi criada uma estru
 ## Video explicação
 Foi criado um video apresentação, explicando o codigo e mostrando a logica por tras do codigo feito em assembly.
 
-Link para o video: 
+Link para o video: https://youtu.be/S1shV0xKn24
 
